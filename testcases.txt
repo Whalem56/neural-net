@@ -1,0 +1,30 @@
+
+
+Approximate accuracies with different configurations for provided train and test files
+
+1) Nodes in hidden layer - 5
+   Learning rate - 0.01
+   Epoch - 100
+
+   Approximate Accuracy > 0.60
+
+
+2) Nodes in hidden layer - 5
+   Learning rate - 0.05
+   Epoch - 100
+
+   Approximate Accuracy > 0.80
+
+ 
+3) Nodes in hidden layer - 5
+   Learning rate - 0.05
+   Epoch - 200
+
+   Approximate Accuracy > 0.85
+
+ 
+4) Nodes in hidden layer - 8
+   Learning rate - 0.05
+   Epoch - 200
+
+   Approximate Accuracy > 0.88 
